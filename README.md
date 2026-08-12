@@ -1,2 +1,2 @@
-# siber-guvenlik
+# Belinay-Yılmaz
 Ben siber güvenliğe başladım.
